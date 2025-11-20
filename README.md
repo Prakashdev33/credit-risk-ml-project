@@ -7,9 +7,6 @@
 
 > A comprehensive machine learning system for credit risk assessment with explainable AI, achieving 82.69% AUC-ROC and $789K profit improvement.
 
-![Dashboard Preview](assets/dashboard_preview.png)
-
----
 
 ## 📋 Table of Contents
 
