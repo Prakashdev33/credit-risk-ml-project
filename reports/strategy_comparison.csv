@@ -1,0 +1,11 @@
+Strategy,Net_Profit,Description
+"Approve
+All",-1050000,No ML - Approve all applications
+"Default
+Threshold
+(0.5)",-385500,ML with default threshold
+"Optimal
+Threshold
+(0.25)",404000,ML with optimized threshold
+"Reject
+All",0,No business - Reject all
