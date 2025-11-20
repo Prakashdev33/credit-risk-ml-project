@@ -28,7 +28,7 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 This project implements an end-to-end machine learning solution for credit risk assessment in the banking sector. It combines predictive modeling with explainable AI (SHAP) to provide transparent, accurate credit decisions that comply with regulatory requirements.
 
@@ -364,7 +364,7 @@ credit-risk-assessment/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -391,9 +391,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Your Name**
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: Prakashdev33@gmail.com
+- LinkedIn: www.linkedin.com/in/prakash-deo
+- GitHub: [(https://github.com/Prakashdev33))
 
 **Project Link**: [https://github.com/yourusername/credit-risk-assessment](https://github.com/yourusername/credit-risk-assessment)
 
@@ -426,7 +426,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 **⭐ If you found this project helpful, please consider giving it a star! ⭐**
-
-Made with ❤️ and ☕
 
 </div>
