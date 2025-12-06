@@ -107,8 +107,8 @@ Our ML-powered system:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/credit-risk-assessment.git
-cd credit-risk-assessment
+git clone https://github.com/Prakashdev33/credit-risk-ml-project.git
+cd credit-risk-ml-project
 ```
 
 ### Step 2: Create Virtual Environment
@@ -390,9 +390,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Your Name**
 - Email: Prakashdev33@gmail.com
 - LinkedIn: www.linkedin.com/in/prakash-deo
-- GitHub: [(https://github.com/Prakashdev33))
+- GitHub: https://github.com/Prakashdev33
 
-**Project Link**: [(https://github.com/Prakashdev33/credit-risk-ml-project?tab=readme-ov-file#contact)]
+**Project Link**: https://github.com/Prakashdev33/credit-risk-ml-project?tab=readme-ov-file#contact
 
 ---
 
