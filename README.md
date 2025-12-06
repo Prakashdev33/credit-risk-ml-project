@@ -387,7 +387,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name**
+**Prakash Deo**
 - Email: Prakashdev33@gmail.com
 - LinkedIn: www.linkedin.com/in/prakash-deo
 - GitHub: https://github.com/Prakashdev33
