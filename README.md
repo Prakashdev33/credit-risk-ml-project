@@ -392,7 +392,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - LinkedIn: www.linkedin.com/in/prakash-deo
 - GitHub: [(https://github.com/Prakashdev33))
 
-**Project Link**: [https://github.com/yourusername/credit-risk-assessment]((https://github.com/Prakashdev33/credit-risk-ml-project?tab=readme-ov-file#contact))
+**Project Link**: [((https://github.com/Prakashdev33/credit-risk-ml-project?tab=readme-ov-file#contact))]
 
 ---
 
